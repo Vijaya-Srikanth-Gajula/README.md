@@ -31,7 +31,7 @@ Demo
 
 Open the portfolio directly:  
 View repository: https://github.com/Vijaya-Srikanth-Gajula/vijaya-srikanth-portfolio  
-(If deployed, replace with your Netlify or GitHub Pages URL)
+View deployed: https://vijaya-srikanth-portfolio.netlify.app/
 
 ---
 
