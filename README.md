@@ -42,7 +42,7 @@ Technologies Used
 |-------------------|------------------------------------|
 | HTML5             | Page structure                     |
 | CSS3              | Styling and responsive design      |
-| JavaScript        | [Optional] Interactivity           |
+| JavaScript        |     Interactivity                  |
 | Netlify Forms     | Serverless contact form            |
 | MongoDB, Python   | Used in described projects         |
 | VS Code, Git      | Development tools                  |
@@ -63,7 +63,7 @@ How to Clone & Run Locally
 
    Simply double-click index.html or open it in your preferred browser via VS Code or Finder/Explorer.
 
-3. (Optional) Customize
+3.  Customize
 
    Edit index.html and styles.css to update content or styling.
    Add more projects, update skills, or personalize as needed.
